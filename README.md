@@ -1,4 +1,4 @@
-# 📚 DSA — Data Structures & Algorithms 
+# 📚 DSA - Data Structures & Algorithms 
 
 This repository contains a collection of data structures implemented during my first year at  
 **UBB**, as part of the **Data Structures & Algorithms** course.  
